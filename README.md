@@ -1,0 +1,1 @@
+Early prediction allows for timely interventions and lifestyle modifications, potentially preventing the progression of heart disease. This  project explores the various approaches to early prediction, ranging from traditional risk factors to cutting-edge technologies.
